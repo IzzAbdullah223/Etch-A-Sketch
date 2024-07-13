@@ -64,6 +64,7 @@ h2{
     display: flex;
     justify-content: space-around;
     border-radius: 25px;
+    width: min-content;
 }
 
 label{
@@ -88,8 +89,8 @@ input{
 
 button{
     color: white;
-    font-size: 1.4rem;
-    padding: 10px 15px;
+    font-size: 1rem;
+    padding: 2px 10px;
     border-radius: 10px;
     cursor: pointer;
     border: none;
@@ -109,7 +110,7 @@ background-color: rgb(236, 47, 107);;
 }
 
 .box{
-    outline: black solid 3px;
+    outline: black solid 1px;
 }
 
 
